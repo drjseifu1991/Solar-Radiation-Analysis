@@ -39,9 +39,9 @@ The project is organized as follows:
 
 The datasets used in this project are stored in the `data` directory and include:
 
-- **benin.csv**: Solar radiation data for Benin.
-- **sierra_leone.csv**: Solar radiation data for Sierra Leone.
-- **togo.csv**: Solar radiation data for Togo.
+- **benin-malanville.csv**: Solar radiation data for Benin.
+- **sierraleone-bumbuna.csv**: Solar radiation data for Sierra Leone.
+- **togo-dapaong_qc.csv**: Solar radiation data for Togo.
 
 Each dataset contains the following columns:
 

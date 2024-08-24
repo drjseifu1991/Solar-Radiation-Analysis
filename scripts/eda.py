@@ -77,9 +77,3 @@ def run_eda():
 
 if __name__ == "__main__":
     run_eda()
-
-
-
-# benin_df = load_data('benin-malanville.csv')
-# sierra_leone_df = load_data('sierraleone-bumbuna.csv')
-# togo_df = load_data('togo-dapaong_qc.csv')
