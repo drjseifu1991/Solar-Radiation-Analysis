@@ -89,6 +89,7 @@ To run the exploratory data analysis, use the following command:
 
 ```bash
 python scripts/eda.py
+```
 
 ## Interactive Dashboard
 
@@ -107,6 +108,7 @@ To launch the dashboard, run:
 
 ```bash
 streamlit run scripts/dashboard.py
+```
 
 ## Setting Up the Project
 
