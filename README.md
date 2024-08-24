@@ -34,7 +34,7 @@ The project is organized as follows:
 │   ├── test_eda.py         # Unit tests for the EDA functions
 ├── requirements.txt        # Python dependencies
 ├── README.md               # Project documentation (this file)
-
+````
 ## Datasets
 
 The datasets used in this project are stored in the `data` directory and include:
