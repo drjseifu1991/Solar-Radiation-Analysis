@@ -58,16 +58,6 @@ Each dataset contains the following columns:
 - **Comments**: Additional notes (if any).
 
 ## Exploratory Data Analysis (EDA)
-ntal Irradiance (W/m²).
-- **Tamb**: Ambient Temperature (°C).
-- **RH**: Relative Humidity (%).
-- **WS**: Wind Speed (m/s).
-- **BP**: Barometric Pressure (hPa).
-- **TModA**: Temperature of Module A (°C).
-- **TModB**: Temperature of Module B (°C).
-- **Comments**: Additional notes (if any).
-
-## Exploratory Data Analysis (EDA)
 
 ### Goals
 
