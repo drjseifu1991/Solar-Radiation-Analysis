@@ -21,6 +21,7 @@ def plot_time_series(df, country_name):
     ax.legend()
     st.pyplot(fig)  # Display the plot in Streamlit
 
+
 def plot_correlation_heatmap(df, country_name):
     st.subheader(f'Correlation Heatmap for {country_name}')
     corr = df.corr()
